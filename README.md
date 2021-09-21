@@ -8,9 +8,9 @@ cd project-name
 
 git clone https://github.com/tlzhu19/flask-template.git
 
-virtualenv .
+virtualenv venv
 
-source bin/activate
+source venv/bin/activate
 
 pip install -r requirements.txt
 ```
